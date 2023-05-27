@@ -36,23 +36,25 @@
     5. Crie um script que declare uma variável e verifique se o seu valor é um booleano. 
     Se for, exiba a mensagem "É um booleano", caso contrário, exiba a mensagem "Não é um booleano".
 */
-    const list = [1, 'teste', true, null, undefined, false];
+    //const list = [1, 'teste', true, null, undefined, false];
 
-    function isBool(value){
-        return typeof value === 'boolean' ? 'É um booleano' : 'Não é um booleano';
-    }
+    //function isBool(value){
+    //    return typeof value === 'boolean' ? 'É um booleano' : 'Não é um booleano';
+    //}
 
-    for (const item of list) {
-        console.log(`${item}: ${isBool(item)}`);
-    }
+    //for (const item of list) {
+    //    console.log(`${item}: ${isBool(item)}`);
+    //}
 /*
     6. Crie um script que declare duas variáveis e exiba o resultado da subtração entre elas.
 */
-
+    //let valorA = 2
+    //let valorB = 1
+    //console.log(valorA - valorB)
 /*
     7. Crie um script que declare duas variáveis e exiba o resultado da multiplicação entre elas.
 */
-
+    
 /*
     8. Crie um script que declare duas variáveis e exiba o resultado da divisão entre elas.
 */
