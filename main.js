@@ -54,7 +54,9 @@
 /*
     7. Crie um script que declare duas variáveis e exiba o resultado da multiplicação entre elas.
 */
-    
+    //let valorA = 2
+    //let valorB = 1
+    //console.log(valorA * valorB)
 /*
     8. Crie um script que declare duas variáveis e exiba o resultado da divisão entre elas.
 */
